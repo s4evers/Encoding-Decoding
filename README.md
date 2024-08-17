@@ -12,4 +12,4 @@ $ chmod +x setup.sh
 $ ./setup.sh
 ```
 
-[Telegram Channel✅️] (https://t.me/Networking_Security)
+[Telegram Channel✅️](https://t.me/Networking_Security)
