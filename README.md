@@ -11,3 +11,5 @@ Ushbu dastur orqali matn ni shifrlash va uni shifrdan chiqarish mumkin.
 
 4) ./setup.sh
 ```
+
+(MER6) [https://t.me/Muhammedov]
