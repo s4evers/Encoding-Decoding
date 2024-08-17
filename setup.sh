@@ -35,7 +35,7 @@ decrypt() {
     echo "2) Hex (16-lik)"
     read -p "Quyidagi raqamnlardan birini kiriting: " choice
 
-    read -p "Shifrlangan matn ni kiriting: " encrypted_text
+    read -p "Shifrlangan kod ni kiriting: " encrypted_text
 
     case $choice in
         1)
